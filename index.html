@@ -108,14 +108,14 @@ title_fr: Acceuil
 
 				</div>
 			<!-- Carousel -->
-				<section class="carousel">
+				<section class="container carousel">
 					<header>
 						<h2>Latest news</h2>
 					</header>
 					<div class="reel">
 						
 						{% for post in posts | limit: 10 %}
-						{% if post.published %}
+						
 						<article>
 							<a href="#" class="image featured"><img src="{{ site.baseurl }}images/{{ post.image }}" alt="{{ post.image_alt }}" /></a>
 							<header>
@@ -123,7 +123,7 @@ title_fr: Acceuil
 							</header>
 							<p>{{ post.excerpt }}</p>
 						</article>
-						{% endif %}
+						
 
 						{% endfor %}
 						
