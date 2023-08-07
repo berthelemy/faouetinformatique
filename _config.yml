@@ -27,6 +27,9 @@ url: "https://berthelemy.github.io" # the base hostname & protocol for your site
 
 # Build settings
 theme: minima
+
+include: '_pages'
+
 plugins:
   - jekyll-feed
 
