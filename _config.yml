@@ -36,7 +36,7 @@ defaults:
       path: "_pages"
       type: "pages"
     values:
-      permalink: "/faouetinformatiqes/:basename"
+      permalink: "/:basename"
 
 plugins:
   - jekyll-feed
