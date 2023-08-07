@@ -30,6 +30,13 @@ theme: minima
 
 include: ['_pages']
 
+defaults:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      permalink: /:basename/ # make URL of pages in the folder _pages as on the root.
+
 plugins:
   - jekyll-feed
 
