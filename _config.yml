@@ -30,6 +30,14 @@ theme: minima
 
 include: ['_pages']
 
+defaults:
+  -
+    scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      permalink: "/faouetinformatiqes/:basename"
+
 plugins:
   - jekyll-feed
 
