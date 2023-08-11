@@ -25,7 +25,7 @@ datatable: prices
     </tbody>
 </table>
 
-{% assign categories = site.data.prices | group_by: "category" %}
+{% assign categories = site.data.prices | group_by: "Category" %}
 {% for category in categories %}
 
 <h3>{{ category.name }}</h3>
