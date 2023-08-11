@@ -4,7 +4,7 @@ title: Prices
 image: wordpress-923188_1280.jpg
 image-alt: Person creating a Wordpress website
 ---
-{{ page.title }}
+
 <table>
     <thead>
     {% for row in site.data.prices %}
@@ -12,13 +12,15 @@ image-alt: Person creating a Wordpress website
             {% for pair in row %}
             <th>{{ pair[0] }}</th>
             {% endfor %}
+        </thead>
+        <tbody>
         {% endif %}
-    {% endfor %}
-    </thead>
-    <tbody>
+    
+
         {% tablerow pair in row %}
         {{ pair[1] }}
         {% endtablerow %}
+    {% endfor %}
     </tbody>
 </table>
     
