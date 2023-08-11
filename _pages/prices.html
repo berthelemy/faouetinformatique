@@ -3,9 +3,10 @@ layout: default
 title: Prices
 image: wordpress-923188_1280.jpg
 image-alt: Person creating a Wordpress website
+datatable: prices
 ---
 
-<table>
+<table id="prices">
     <thead>
     {% for row in site.data.prices %}
         {% if forloop.first %} 

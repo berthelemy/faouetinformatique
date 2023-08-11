@@ -7,3 +7,9 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			{% if page.datatable %}
+			<script src="//cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+			<script>
+				let table = new DataTable('#{{ page.datatable }}');
+			</script>
+			{% endif %}
