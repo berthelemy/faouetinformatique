@@ -30,8 +30,9 @@ datatable: prices
 
 <h3>{{ category.name }}</h3>
 {% for item in category.items %}
-<p>{{ item.Service }}</p>
-<p>{{ item.Price }}</p>
+<ul>
+<li>{{ item.Service }}: {{ item.Price }}</li>
+</ul>
 {% endfor %}
 {% endfor %}
     
