@@ -6,7 +6,7 @@ image-alt: Person creating a Wordpress website
 ---
 <table>
     <thead>
-{% for row in site.data.prices %}
+    {% for row in site.data.prices %}
         {% if forloop.first %} 
             {% for pair in row %}
             <th>{{ pair[0] }}</th>
