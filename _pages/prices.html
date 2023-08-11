@@ -24,4 +24,14 @@ datatable: prices
     {% endfor %}
     </tbody>
 </table>
+
+{% assign categories = site.data.prices | group_by: "category" %}
+{% for category in categories %}
+
+<h3>{{ category.name }}</h3>
+{% for item in category.items %}
+<p>{{ item.service }}</p>
+<p>{{ item.price }}</p>
+{% endfor %}
+{% endfor %}
     
