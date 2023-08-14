@@ -10,3 +10,8 @@
 section#features article p {
   text-align: center;
 }
+
+section.carousel h2 {
+    text-align: center;
+    padding-bottom: 1rem;
+}
