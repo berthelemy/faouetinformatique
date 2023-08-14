@@ -6,3 +6,7 @@
   height: 250px;
   object-fit: cover;
 }
+
+section#features article p {
+  text-align: center;
+}
