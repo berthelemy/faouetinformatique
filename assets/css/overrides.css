@@ -12,6 +12,9 @@ p.center {
 
 ul.no-bullet {
   list-style-type: none;
+}
+
+ul.no-bullet li {
   padding: 0.2rem 0.1rem 0.2rem 0;
 }
 
