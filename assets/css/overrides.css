@@ -28,4 +28,6 @@ ul.two-columns {
   column-rule-style: solid;
   column-rule-width: 1px;
   column-rule-color: #606060;
+  list-style-type: none;
+  padding: 0;
 }
