@@ -23,12 +23,3 @@ section.carousel h2 {
     text-align: center;
     padding-bottom: 1rem;
 }
-
-ul.no-bullet {
-  list-style-type: none;
-  padding: 0;
-}
-
-ul.no-bullet li {
-  padding: 0 1rem 0.5rem 0;
-}
