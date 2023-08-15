@@ -15,3 +15,9 @@ section.carousel h2 {
     text-align: center;
     padding-bottom: 1rem;
 }
+
+ul.two-columns {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
