@@ -1,9 +1,9 @@
-#header {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.55)),url(../../images/system-2660914_1280.jpg);
+body {
+  color: #3b3b3b;
 }
 
-.wrapper {
-  padding: 2rem 0 2rem 0;
+#header {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.55)),url(../../images/system-2660914_1280.jpg);
 }
 
 .image.featured img {
@@ -24,4 +24,8 @@ ul.two-columns {
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
+  column-gap: 2rem;
+  column-rule-style: solid;
+  column-rule-width: 1px;
+  column-rule-color: #606060;
 }
