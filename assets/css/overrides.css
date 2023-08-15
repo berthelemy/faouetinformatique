@@ -24,18 +24,11 @@ section.carousel h2 {
     padding-bottom: 1rem;
 }
 
-ul.two-columns {
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-  column-gap: 2rem;
-  column-rule-style: solid;
-  column-rule-width: 1px;
-  column-rule-color: #606060;
+ul.no-bullet {
   list-style-type: none;
   padding: 0;
 }
 
-ul.two-columns li {
+ul.no-bullet li {
   padding: 0 1rem 0.5rem 0;
 }
