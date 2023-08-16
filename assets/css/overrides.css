@@ -7,13 +7,10 @@ p.center {
   text-align: center;
 }
 
-ul.checkmark {
-  list-style: none;
-}
-
-ul.checkmark li:before {
-  content: '✓ ';
-  padding-left: 0;
+img.right {
+  float: right;
+  padding-left: 5rem;
+  padding-bottom: 1rem;
 }
 
 ul.no-bullet {
