@@ -7,6 +7,14 @@ p.center {
   text-align: center;
 }
 
+ul.checkmark {
+  list-style: none;
+}
+
+ul.checkmark li:before {
+  content: '✓';
+}
+
 ul.no-bullet {
   list-style-type: none;
 }
