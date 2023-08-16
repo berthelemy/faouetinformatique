@@ -12,7 +12,8 @@ ul.checkmark {
 }
 
 ul.checkmark li:before {
-  content: '✓';
+  content: '✓ ';
+  padding-left: 0;
 }
 
 ul.no-bullet {
