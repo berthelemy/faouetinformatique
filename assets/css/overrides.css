@@ -7,10 +7,9 @@ p.center {
   text-align: center;
 }
 
-img.right {
-  float: right;
-  padding-left: 5rem;
-  padding-bottom: 1rem;
+img.fit {
+  width: 100%
+  object-fit: contain;
 }
 
 ul.no-bullet {
