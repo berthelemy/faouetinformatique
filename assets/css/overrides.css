@@ -47,3 +47,9 @@ section.carousel h2 {
     margin-top: 0px;
 }
 }
+
+@media screen and (max-width: 736px) {
+p {
+    text-align: left;
+}
+}
