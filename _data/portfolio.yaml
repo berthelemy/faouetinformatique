@@ -1,6 +1,7 @@
 - name: Nestled in Brittany
   url: https://nestledinbrittany.org.uk
   img: nestledinbrittany.png
+  description: An English language tourist information site
   attributes:
     - Mobile friendly
     - Maps with markers and popups
@@ -9,14 +10,16 @@
 - name: Camping le Drennec
   url: https://campingledrennec.com/
   img: campingledrennec.png
+  description: A bilingual site for an award winning campsite
   attributes:
-    - Multi-language
+    - Bilingual
     - Mobile friendly
     - Photo gallery
     - Multiple page templates
 - name: Mark Berthelemy - consulting
   url: https://mark.berthelemy.net
   img: mark.berthelemy.net.png
+  description: A shop window for corporate clients
   attributes:
     - Fast loading
     - Mobile friendly
@@ -25,8 +28,9 @@
 - name: Sean Hendicott - heating
   url: https://www.seanhendicott.com
   img: seanhendicott.png
+  description: A showcase for heating services
   attributes:
-    - Multi-language
+    - Bilingual
     - Mobile friendly
     - Photo gallery
     - Non-invasive site analytics
