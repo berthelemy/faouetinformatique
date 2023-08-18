@@ -1,0 +1,8 @@
+- name: Nestled in Brittany
+  url: https://nestledinbrittany.org.uk
+  img: nestledinbrittany.png
+  attributes:
+    - Mobile friendly
+    - Maps with markers and popups
+    - Automatically post to Facebook
+    - Searchable
