@@ -2,7 +2,7 @@
 <h4>{{ item.name }}</h4>
 <div class="row">
     <article class="col-6 col-12-mobile special compressed">
-        <a href="{{ item.url }}" target="_blank"><img class="fit border" src="{{ site.baseurl }}/images/portfolio/{{ item.img }}" width="400" alt="{{ item.name }} website screenshot" /></a>
+        <img class="fit border" src="{{ site.baseurl }}/images/portfolio/{{ item.img }}" width="400" alt="{{ item.name }} website screenshot" />
     </article>
     <article class="col-6 col-12-mobile special compressed">
         <ul>
@@ -10,6 +10,7 @@
             <li>{{ attr }}</li>
         {%- endfor -%}
         </ul>
+        <p><a href="{{ item.url }}" target="_blank">Visit {{ item.name }}</a></p>
     </article>
 </div>
 {% endfor %}
