@@ -41,10 +41,3 @@ section.carousel h2 {
     text-align: center;
     padding-bottom: 1rem;
 }
-
-
-@media screen and (max-width: 736px) {
-.row > article.compressed {
-    margin-bottom: 0em;
-}
-}
