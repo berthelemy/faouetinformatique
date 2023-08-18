@@ -15,6 +15,6 @@
     </article>
 
 {% if count == 1 %}</div>{% endif %}
-{% if count == 0 %}{% assign count = 1 %}{% else %}{% assign count = 0 %}{% endif %}
+{% if count == 0 %}{% assign count = 1 %}{% assign endcount = 0 %}{% else %}{% assign count = 0 %}{% endif %}
 {% endfor %}
-{% if count == 0 %}</div>{% endif %}
+{% if endcount == 0 %}</div>{% endif %}
