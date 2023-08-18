@@ -37,6 +37,15 @@
 							{% if page.image %}<div class="image featured"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}" /></div>{% endif %}
 							
 							{{ content }}
+
+							<hr>
+							{% if page.cta-hide != TRUE %}
+								{% if page.cta %}
+								<p class="center"><a class="button" href="{{ site.baseurl }}/{{ page.cta-url}}">{{ page.cta }}</a></p>
+								{% else %}
+								<p class="center"><a class="button" href="{{ site.baseurl }}/contact">Request a no-obligation quote</a></p>
+								{% endif %}
+							{% endif %}
 							
 							<p>
 								Commodo id natoque malesuada sollicitudin elit suscipit. Curae suspendisse mauris posuere accumsan massa
