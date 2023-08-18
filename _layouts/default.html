@@ -39,7 +39,8 @@
 							{{ content }}
 
 							<hr>
-							{% if page.hide-cta == "hide" %}
+							{% if page.hide-cta and page.hide-cta == "hide" %}
+							<!--No CTA required -->
 							{% elsif page.cta %}
 							<p class="center"><a class="button" href="{{ site.baseurl }}/{{ page.cta-url}}">{{ page.cta }}</a></p>
 							{% else %}
