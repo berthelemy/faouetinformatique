@@ -39,7 +39,7 @@
 							{{ content }}
 
 							<hr>
-							{% if page.cta-hide != TRUE %}
+							{% if page.cta-hide != "TRUE" %}
 								{% if page.cta %}
 								<p class="center"><a class="button" href="{{ site.baseurl }}/{{ page.cta-url}}">{{ page.cta }}</a></p>
 								{% else %}
