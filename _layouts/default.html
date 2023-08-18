@@ -34,7 +34,7 @@
 									{{ page.tagline }}
 								</p>
 							</header>
-							<div class="image featured"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}" /></div>
+							{% if page.image %}<div class="image featured"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.image-alt }}" /></div>{% endif %}
 							
 							{{ content }}
 							
