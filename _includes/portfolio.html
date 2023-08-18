@@ -6,14 +6,15 @@
         <h3>{{ item.name }}</h3>
         <p>{{ item.description }}</p>
         <img class="fit border" src="{{ site.baseurl }}/images/portfolio/{{ item.img }}" width="400" alt="{{ item.name }} website screenshot" />
+        <p><a href="{{ item.url }}" target="_blank">Visit {{ item.name }}</a></p>
         <ul>
             {%- for attr in item.attributes -%}
                 <li>{{ attr }}</li>
             {%- endfor -%}
             </ul>
-            <p><a href="{{ item.url }}" target="_blank">Visit {{ item.name }}</a></p>
     </article>
 
 {% if count == 1 %}</div>{% endif %}
 {% if count == 0 %}{% assign count = 1 %}{% else %}{% assign count = 0 %}{% endif %}
 {% endfor %}
+{% if count == 0 %}</div>{% endif %}

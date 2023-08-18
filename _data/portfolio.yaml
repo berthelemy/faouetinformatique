@@ -14,6 +14,7 @@
   attributes:
     - Bilingual
     - Mobile friendly
+    - Post automatically to Facebook
     - Photo gallery
     - Multiple page templates
 - name: Mark Berthelemy - consulting
@@ -35,3 +36,12 @@
     - Photo gallery
     - Non-invasive site analytics
     - Single page design
+- name: Belper Town Wind Band
+  url: https://belpertownwindband.co.uk/
+  img: belpertownwindband.png
+  description: A simple site for a community music group
+  attributes:
+    - Mobile friendly
+    - Photo gallery
+    - Contact form
+    - Simple design
