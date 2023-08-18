@@ -1,7 +1,7 @@
 {% assign count = 0 %}
 {% for item in site.data.portfolio %}
 
-{% if count == 0 %}<div class="row">{% endif %}
+{% if count == 0 %}<div class="row extra-space">{% endif %}
     <article class="col-6 col-12-mobile special compressed">
         <h3>{{ item.name }}</h3>
         <p>{{ item.description }}</p>

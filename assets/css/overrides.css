@@ -41,3 +41,9 @@ section.carousel h2 {
     text-align: center;
     padding-bottom: 1rem;
 }
+
+@media screen and (max-width: 1680px) {
+.row.extra-space {
+    margin-top: 0px;
+}
+}
