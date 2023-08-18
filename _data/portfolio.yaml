@@ -6,3 +6,28 @@
     - Maps with markers and popups
     - Automatically post to Facebook
     - Searchable
+- name: Camping le Drennec
+  url: https://campingledrennec.com/
+  img: campingledrennec.png
+  attributes:
+    - Multi-language
+    - Mobile friendly
+    - Photo gallery
+    - Multiple page templates
+- name: Mark Berthelemy - consulting
+  url: https://mark.berthelemy.net
+  img: mark.berthelemy.net.png
+  attributes:
+    - Fast loading
+    - Mobile friendly
+    - Responsive tables
+    - Multiple page templates
+- name: Sean Hendicott - heating
+  url: https://www.seanhendicott.com
+  img: seanhendicott.png
+  attributes:
+    - Multi-language
+    - Mobile friendly
+    - Photo gallery
+    - Non-invasive site analytics
+    - Single page design

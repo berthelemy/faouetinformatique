@@ -1,10 +1,10 @@
 {% for item in site.data.portfolio %}
 <h4>{{ item.name }}</h4>
 <div class="row">
-    <article class="col-6 col-12-mobile special">
+    <article class="col-6 col-12-mobile special compressed">
         <a href="{{ item.url }}" target="_blank"><img class="fit border" src="{{ site.baseurl }}/images/portfolio/{{ item.img }}" width="400" alt="{{ item.name }} website screenshot" /></a>
     </article>
-    <article class="col-6 col-12-mobile special">
+    <article class="col-6 col-12-mobile special compressed">
         <ul>
         {%- for attr in item.attributes -%}
             <li>{{ attr }}</li>
