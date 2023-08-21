@@ -31,7 +31,7 @@
 							<header>
 								{% assign url = page.url | split: '/' %}
 								{% assign len = url | size %}
-								{% if url[size-1] == "services" %}
+								{% if url[len-1] == "services" %}
 								<h2><a href="{{ site.baseurl }}/services">Services</a> / {{ page.title }}</h2>
 								{% else %}
 								<h2>{{ page.title }}</h2>
