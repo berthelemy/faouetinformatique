@@ -29,7 +29,13 @@
 					<div class="container">
 						<article id="main" class="special">
 							<header>
+								{% assign url = page.url | split: '/' %}
+								{% assign len = url | size %}
+								{% if part[size-1] = "services" %}
+								<h2><a href="{{ site.baseurl }}/services">Services</a> / {{ page.title }}</h2>
+								{% else %}
 								<h2>{{ page.title }}</h2>
+								{% endif %}
 								<p>
 									{{ page.tagline }}
 								</p>
