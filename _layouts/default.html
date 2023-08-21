@@ -30,7 +30,7 @@
 						<article id="main" class="special">
 							<header>
 								{% assign url = page.url | split: '/' %}
-								{% assign len = url | size | minus: 1 %}
+								{% assign len = url | size | minus: 2 %}
 						<p>{{ url }}, {{ url[len] }}, </p>
 								{% if url[len] == "services" %}
 								<h2><a href="{{ site.baseurl }}/services">Services</a> / {{ page.title }}</h2>
