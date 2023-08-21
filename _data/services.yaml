@@ -1,5 +1,20 @@
-- name: Strategy
+- name: IT and Communications Strategy
   url: /services/strategy
-  description: Some text
+  description: Helping you to work efficiently and accurately
+  img: office-594132_1280.jpg
+  img-alt: Man writing on a notepad
+- name: Websites
+  url: /services/websites
+  description: Spread your message simply and clearly
+  img: hand-3286887_1280.jpg
+  img-alt: Hand holding a mobile phone
+- name: Information Systems
+  url: /services/systems
+  description: Find the right hardware and software for your needs
+  img: digital-marketing-1433427_1280.jpg
+  img-alt: Tablet computer showing charts and graphs
+- name: IT support
+  url: /services/support
+  description: Get the best from your IT investment
   img: button-2076_1280.jpg
-  img-alt: Help button on keyboard
+  img-alt: Help button on a keyboard
