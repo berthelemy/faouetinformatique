@@ -1,0 +1,5 @@
+- name: Strategy
+  url: /services/strategy
+  description: Some text
+  img: button-2076_1280.jpg
+  img-alt: Help button on keyboard

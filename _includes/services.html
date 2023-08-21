@@ -7,6 +7,15 @@
             <p>Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</p>
         </header>-->
         <div class="row">
+            {% for service in site.data.services %}
+            <article class="col-3 col-12-mobile special">
+                <a href="{{ site.baseurl }}/{{ service.url }}" class="image featured" title="{{ service.name }}"><img src="images/{{ service.img }}" alt="{{ service.img-alt }}" /></a>
+                <header>
+                    <h3><a href="{{ site.baseurl }}/{{ service.url }}">{{ service.name }}</a></h3>
+                </header>
+                <p>{{ service.description }}</p>
+            </article>
+            {% end for %}
             <article class="col-3 col-12-mobile special">
                 <a href="{{ site.baseurl }}/services/support" class="image featured" title="IT Support"><img src="images/button-2076_1280.jpg" alt="Help button on keyboard" /></a>
                 <header>
