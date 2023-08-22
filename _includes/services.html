@@ -16,7 +16,7 @@
             {% for service in site.services %}
             {% if page.url != service.url %}
             <article class="col-3 col-12-mobile special">
-                <a href="{{ site.baseurl }}/{{ service.url }}" class="image featured" title="{{ service.title }}"><img src="{{ site.baseurl }}/images/{{ service.img }}" alt="{{ service.img-alt }}" /></a>
+                <a href="{{ site.baseurl }}/{{ service.url }}" class="image featured" title="{{ service.title }}"><img src="{{ site.baseurl }}/images/{{ service.image }}" alt="{{ service.image-alt }}" /></a>
                 <header>
                     <h3><a href="{{ site.baseurl }}/{{ service.url }}">{{ service.title }}</a></h3>
                 </header>
