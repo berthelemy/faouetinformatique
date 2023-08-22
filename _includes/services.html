@@ -3,9 +3,15 @@
 
     <section id="features" class="container special">
         <header>
+            {% assign url = page.url | split: '/' %}
+			{% assign len = url | size | minus: 2 %}
+			{% if url[len] == "services" %}
+            <h2>Other services</h2>
+            {% else %}
             <h2>Services</h2>
+            {% endif %}
             
-        </header>-->
+        </header>
         <div class="row">
             {% for service in site.data.services %}
             {% if page.url != service.url %}
