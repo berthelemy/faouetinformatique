@@ -2,6 +2,33 @@
 title: Websites
 layout: default
 description: Spread your message simply and clearly
-img: hand-3286887_1280.jpg
-img-alt: Hand holding a mobile phone
+image: hand-3286887_1280.jpg
+image-alt: Hand holding a mobile phone
+image-source-name: NeiFo on Pixabay 
+image-source-url: https://pixabay.com/photos/hand-woman-medicine-human-3286887/
 ---
+<p>Your website is your way of telling the world about you.</p>
+
+<p>Many small companies and even larger organisations in France, rely on their Facebook page, or free directory listings. Unfortunately, in many cases, they're letting themselves down.</p>
+
+<p>You'll still find many websites which do not work on a mobile phone. That's unfortunate, given that <a href="https://www.statista.com/topics/6421/internet-usage-in-france/" target="_blank"> 53% of web traffic in France comes from mobile devices</a>.</p> 
+
+<p>With your own website, you have total control. Your customers, visitors or members will get an experience tailored to them.</p>
+
+<p>You're not reliant on how other providers choose to display your information, and, more importantly, you're not expecting people to give up their privacy just so they can find out about you.</p>
+
+<h3>What to expect</h3>
+
+<p>The websites I create will:</p>
+
+<ul>
+    <li>work well on small and large screens</li>
+    <li>be accessible to as wide an audience as possible</li>
+    <li>reflect your branding</li>
+    <li>be optimised to help people find you on search engines</li>
+    <li>tell your story clearly and succinctly</li>
+</ul>
+
+You might want to <a href="{{ site.baseurl }}/portfolio">take a look at my current portfolio</a>.
+
+{% include services.html %}
