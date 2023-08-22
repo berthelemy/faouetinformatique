@@ -5,8 +5,8 @@
 								<li>
 									<a href="{{ site.baseurl }}/services">Services</a>
 									<ul>
-										{% for service in site.data.services %}
-										<li><a href="{{ site.baseurl }}{{ service.url }}">{{ service.name }}</a></li>
+										{% for service in site.services %}
+										<li><a href="{{ site.baseurl }}{{ service.url }}">{{ service.title }}</a></li>
 										{% endfor %}
 										<!--<li>
 											<a href="#">And a submenu &hellip;</a>
