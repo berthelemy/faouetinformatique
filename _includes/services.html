@@ -8,6 +8,7 @@
         </header>-->
         <div class="row">
             {% for service in site.data.services %}
+            {% if page.url != service.url %}
             <article class="col-3 col-12-mobile special">
                 <a href="{{ site.baseurl }}/{{ service.url }}" class="image featured" title="{{ service.name }}"><img src="images/{{ service.img }}" alt="{{ service.img-alt }}" /></a>
                 <header>
@@ -15,6 +16,7 @@
                 </header>
                 <p>{{ service.description }}</p>
             </article>
+            {% endif %}
             {% endfor %}
             
         </div>
