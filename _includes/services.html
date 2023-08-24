@@ -14,9 +14,18 @@
             
         </header>
         <div class="row">
-            {% for service in site.services %}
-            {% if page.url != service.url %}
-            <article class="col-3 col-12-mobile special">
+            {#- Count number of services to display -#}
+            {%- assign count = 0 -%}
+            {%- for service in site.services -%}
+            {%- if page.url !=service.url -%}
+            {%- assign count = count | plus:1 -%}
+            {%- endif -%}
+            {%- endfor -%}
+            {%- assign columns = 12 | divided-by:count -%}
+
+            {%- for service in site.services -%}
+            {%- if page.url != service.url -%}
+            <article class="col-{{ columns }} col-12-mobile special">
                 <a href="{{ site.baseurl }}/{{ service.url }}" class="image featured" title="{{ service.title }}"><img src="{{ site.baseurl }}/images/{{ service.image }}" alt="{{ service.image-alt }}" /></a>
                 <header>
                     <h3><a href="{{ site.baseurl }}/{{ service.url }}">{{ service.title }}</a></h3>
