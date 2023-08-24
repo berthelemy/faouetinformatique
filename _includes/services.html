@@ -22,7 +22,7 @@
             {%- endif -%}
             {%- endfor -%}
             {%- assign columns = 12 | divided_by:count -%}
-{{ count }}, {{ columns }}
+
             {%- for service in site.services -%}
             {%- if page.url != service.url -%}
             <article class="col-{{ columns }} col-12-mobile special">
