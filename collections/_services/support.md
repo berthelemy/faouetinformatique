@@ -14,13 +14,17 @@ Sometimes, you may not need to even talk to them at all, if you have the right p
 ### Support areas
 
 - Microsoft Windows, MacOS, Linux, ChromeOS, Android and iPhone
-- Basic networking and internet connections
 - Office software: Documents, spreadsheets, presentations
+- Basic networking and internet connections
 - Customer relationship management systems
 - Website content management systems
-- Website hosting providers
 - Financial and invoicing systems
+- Website hosting providers
+- Virtual meeting software
+- Email and social media
 - Image management
+- Data analysis
+- Domain names
 
 If I can't answer the problem directly, I will help you work with your supplier to resolve the issue.
 
