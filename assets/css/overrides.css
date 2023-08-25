@@ -46,6 +46,10 @@ section.carousel h2 {
     padding-bottom: 1rem;
 }
 
+a.button {
+  line-height: 2rem;
+}
+
 @media screen and (max-width: 1680px) {
 .row.extra-space {
     margin-top: 0px;
