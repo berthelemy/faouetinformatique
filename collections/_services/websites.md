@@ -7,9 +7,9 @@ image-alt: Hand holding a mobile phone
 image-source-name: NeiFo on Pixabay 
 image-source-url: https://pixabay.com/photos/hand-woman-medicine-human-3286887/
 ---
-<p>Your website is your way of telling the world about you.</p>
+<p>Your website is your way of telling the world about you and your organisation.</p>
 
-<p>Many small companies and even larger organisations in France, rely on their Facebook page, or free directory listings. Unfortunately, in many cases, they're letting themselves down.</p>
+<p>Many small companies and even larger organisations in France, rely on their Facebook page, or free directory listings. In many cases, they're letting themselves down.</p>
 
 <p>You'll still find many websites which do not work on a mobile phone. That's unfortunate, given that <a href="https://www.statista.com/topics/6421/internet-usage-in-france/" target="_blank"> 53% of web traffic in France comes from mobile devices</a>.</p> 
 
@@ -23,7 +23,7 @@ image-source-url: https://pixabay.com/photos/hand-woman-medicine-human-3286887/
 
 <ul>
     <li>work well on small and large screens</li>
-    <li>be accessible to as wide an audience as possible</li>
+    <li>meet your users' accessibility requirements</li>
     <li>reflect your branding</li>
     <li>be optimised to help people find you on search engines</li>
     <li>tell your story clearly and succinctly</li>

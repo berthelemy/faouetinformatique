@@ -32,8 +32,4 @@ The report will contain my analysis, recommendations, an approximate budget, and
 
 The cost to provide strategic consulting will depend on the size of your organisation.
 
-Micro organisation (one or two employees/volunteers and fewer than 15 customers)
-Small organisation (3-10 employees/volunteers and fewer than 50 customers)
-Medium organisation (11-50 employees/volunteers and fewer than 500 customers)
-<!-- Add details of orgs -->
 {% include services.html %}
