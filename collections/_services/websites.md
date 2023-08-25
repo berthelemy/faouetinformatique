@@ -31,4 +31,5 @@ image-source-url: https://pixabay.com/photos/hand-woman-medicine-human-3286887/
 
 You might want to <a href="{{ site.baseurl }}/portfolio">take a look at my current portfolio</a>.
 
+{% include cta.html %}
 {% include services.html %}

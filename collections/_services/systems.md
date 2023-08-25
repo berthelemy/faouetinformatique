@@ -49,4 +49,5 @@ For the majority of clients, I will:
 4. Work with you to select the best solution
 5. Ensure the technology is set up to meet your needs and you are ready to use it
 
+{% include cta.html %}
 {% include services.html %}

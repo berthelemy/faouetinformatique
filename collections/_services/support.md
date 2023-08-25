@@ -61,4 +61,5 @@ I will respond to all support tickets within 24 hours (Mondays to Fridays, and e
 
 I provide support during French business hours.
 
+{% include cta.html %}
 {% include services.html %}

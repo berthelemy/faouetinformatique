@@ -35,4 +35,5 @@ Work with me to answer your strategic questions around IT and communications:
 
 {{ pricing }}
 
+{% include cta.html %}
 {% include services.html %}
