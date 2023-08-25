@@ -1,7 +1,7 @@
 {% if page.hide-cta and page.hide-cta == "hide" %}
 <!--No CTA required -->
-{% elsif page.cta %}xxx
+{% elsif page.cta %}
 <p class="center"><a class="button" href="{{ site.baseurl }}/{{ page.cta-url}}">{{ page.cta }}</a></p>
 {% else %}
-<p class="center"><a class="button" href="{{ site.baseurl }}/{{ contact }}">Request a no-obligation quote</a></p>
+<p class="center"><a class="button" href="{{ site.baseurl }}/contact">Request a no-obligation quote</a></p>
 {% endif %}
