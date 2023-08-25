@@ -21,8 +21,7 @@
 title: Faouët Informatique
 email: info@faouetinformatique.fr
 phone: +33662646657
-description_en: IT support and advice for individuals, associations and companies.
-description_fr: Accompagnement et conseil aux particuliers, associations et entreprises.
+description_en: Strategic and immediate IT support, advice and websites for professionals, associations and companies.
 baseurl: "/faouetinformatique" # the subpath of your site, e.g. /blog
 url: "https://berthelemy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

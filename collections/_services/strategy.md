@@ -1,11 +1,17 @@
 ---
 title: IT and Communications Strategy
 layout: default
-description: Helping you to work efficiently and accurately
+description: Setting you up for success
 image: office-594132_1280.jpg
 image-alt: Man writing on a notepad
 image-source-name: StartupStockPhotos on Pixabay
 image-source-url: https://pixabay.com/photos/office-startup-business-home-office-594132/
+pricing: |
+  The cost to provide strategic consulting will depend on the size of your organisation, and the complexity of your needs.
+
+  Prices start from 850€ for one half-day workshop and a detailed report. Discounts are available for not-for-profit organisations and micro-businesses.
+
+  Travel and subsistence will be recharged at cost.
 ---
 
 Work with me to answer your strategic questions around IT and communications:
@@ -20,16 +26,13 @@ Work with me to answer your strategic questions around IT and communications:
 
 ### How I work
 
-My initial report will be based on:
-
-- one or more workshops/conversations
-- anything you can give me to read about your current IT situation
-- an examination of your current external communications
-
-The report will contain my analysis, recommendations, an approximate budget, and a high-level plan.
+1. Free initial 30 minute conversation to gauge the complexity of your needs
+2. Quote provided with a plan and expected deliverables
+3. At least one online or face-to-face workshop (the number will depend on the size and complexity of your organisation)
+4. Written report containing findings, prioritised recommendations, an approximate budget, and a high-level plan.
 
 ### Prices
 
-The cost to provide strategic consulting will depend on the size of your organisation.
+{{ pricing }}
 
 {% include services.html %}
