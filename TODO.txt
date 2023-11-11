@@ -1,1 +1,4 @@
 Make services pages drive the menus
+Add logo (remove big heading)
+Simplify text
+Remove articles
