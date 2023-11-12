@@ -28,7 +28,8 @@ blockquote {
   margin-bottom: 2rem;
 }
 
-#header {
+#nav {
+  position: fixed;
   background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.55)),url(../../images/system-2660914_1280.jpg);
 }
 
