@@ -24,7 +24,7 @@ title_fr: Acceuil
 								<p>{{ site.description_en }}</p>
 							</header>
 							<footer>
-								<a href="#banner" class="button circled scrolly">Start</a>
+								<a href="#services" class="button circled scrolly">Start</a>
 							</footer>
 						</div>
 
@@ -32,12 +32,7 @@ title_fr: Acceuil
 
 				</div>
 
-			<!-- Banner -->
-				<section id="banner">
-					<header>
-						<p>Serving the local community, working across France and wider afield.</p>
-					</header>
-				</section>
+			
 
 			
 
@@ -69,12 +64,10 @@ title_fr: Acceuil
 					</article>
 
 				</div>-->
-				<div class="wrapper style2">
-					{% include cta.html %}
-				</div>
+				
 			{% include services.html %}
 			<!-- Carousel -->
-				<section class="carousel">
+				<section id="services" class="carousel">
 					<h2>Recent articles</h2>
 					<div class="reel">
 						
@@ -95,6 +88,9 @@ title_fr: Acceuil
 
 					</div>
 				</section>
+				<div id="services" class="wrapper style2">
+					{% include cta.html %}
+				</div>
 
 			{% include footer.html %}
 			
