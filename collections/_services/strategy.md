@@ -1,5 +1,5 @@
 ---
-title: IT and Communications Strategy
+title: Strategy
 layout: default
 description: Setting you up for success
 image: office-594132_1280.jpg
