@@ -1,0 +1,31 @@
+<head lang="en">
+		<title>{{ site.title }}</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<meta name="description" content="{{ site.description_en }} {{ site.description_fr }}">
+
+		
+    	<!-- Facebook Meta Tags -->
+  	<meta property="og:url" content="https://berthelemy.github.io/faouetinformatique/">
+  	<meta property="og:type" content="website">
+  	<meta property="og:title" content="{{ site.title }}">
+  	<meta property="og:description" content="{{ site.description_en }} {{ site.description_fr }}">
+  	<meta property="og:image" content="images/button-2076_1280.jpg">
+
+  	<!-- Twitter Meta Tags -->
+  	<meta name="twitter:card" content="summary_large_image">
+  	<meta property="twitter:domain" content="berthelemy.github.io">
+  	<meta property="twitter:url" content="https://berthelemy.github.io/faouetinformatique/">
+  	<meta name="twitter:title" content="{{ site.title }}">
+  	<meta name="twitter:description" content="{{ site.description_en }} {{ site.description_fr }}">
+  	<meta name="twitter:image" content="images/button-2076_1280.jpg">
+        	
+		<!-- Simple CSS -->
+		<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+		
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/overrides_simple.css">
+		<noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css"></noscript>
+		{% if page.datatable %}
+		<link rel="stylesheet" href="//cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+		{% endif %}
+	</head>
