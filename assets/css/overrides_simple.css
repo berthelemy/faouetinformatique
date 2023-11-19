@@ -2,3 +2,18 @@
     --accent-bg: #f3bfc4;
     --accent: red;
   }
+
+footer nav {
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer nav ul li {
+    display: inline-block;
+    padding: 0 0.5rem;
+}
