@@ -21,7 +21,7 @@
 title: Faouët Informatique
 email: info@faouetinformatique.fr
 phone: +33662646657
-description_en: IT support, advice and websites for professionals, associations and companies.
+description_en: Eco-friendly websites for professionals, associations and companies.
 baseurl: "/faouetinformatique" # the subpath of your site, e.g. /blog
 url: "https://berthelemy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -56,14 +56,14 @@ collections:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
