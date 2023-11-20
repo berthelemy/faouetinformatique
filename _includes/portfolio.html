@@ -2,7 +2,6 @@
 {% for item in site.data.portfolio %}
 <h3>{{ item.name }}</h3>
 <aside>
-    <p>Characteristics:</p>
     <ul>
         {%- for attr in item.attributes -%}
             <li>{{ attr }}</li>
