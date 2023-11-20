@@ -1,5 +1,5 @@
 :root {
-    --accent: #77228f;
+    --accent: #198754;
   }
 
 aside.portfolio {
@@ -7,8 +7,12 @@ aside.portfolio {
     width: 50%;
 }
 
+aside.portfolio img {
+    object-fit: cover;
+}
+
 @media only screen and (max-width: 720px)
-aside {
+aside.portfolio {
     width: 100%;
 }
 
