@@ -10,11 +10,13 @@ aside.portfolio {
 aside.portfolio img {
     object-fit: cover;
     height: 100%;
+    border: 1px solid var(--border);
 }
 
 @media only screen and (max-width: 720px) {
 aside.portfolio {
     width: 100%;
+    border: none;
 }
 }
 
