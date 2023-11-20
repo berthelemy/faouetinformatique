@@ -2,6 +2,11 @@
     --accent: #77228f;
   }
 
+aside.portfolio {
+    padding: 0;
+    width: 50%;
+}
+
 footer nav {
     margin: 0 auto;
     text-align: center;
