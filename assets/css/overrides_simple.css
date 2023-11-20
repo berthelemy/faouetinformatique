@@ -9,6 +9,7 @@ aside.portfolio {
 
 aside.portfolio img {
     object-fit: cover;
+    height: 100%;
 }
 
 @media only screen and (max-width: 720px) {
