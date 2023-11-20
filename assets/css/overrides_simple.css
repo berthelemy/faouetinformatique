@@ -7,6 +7,12 @@ aside.portfolio {
     width: 50%;
 }
 
+@media only screen and (max-width: 720px)
+aside {
+    width: 100%;
+}
+
+
 footer nav {
     margin: 0 auto;
     text-align: center;
