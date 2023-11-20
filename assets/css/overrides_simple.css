@@ -5,6 +5,7 @@
 aside.portfolio {
     padding: 0;
     width: 50%;
+    border: none;
 }
 
 aside.portfolio img {
@@ -16,7 +17,6 @@ aside.portfolio img {
 @media only screen and (max-width: 720px) {
 aside.portfolio {
     width: 100%;
-    border: none;
 }
 }
 
