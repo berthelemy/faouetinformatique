@@ -2,15 +2,16 @@
 {% for item in site.data.portfolio %}
 <h3>{{ item.name }}</h3>
 
-<p>{{ item.description }}</p>
 <aside>
-    <ul>
-        {%- for attr in item.attributes -%}
-            <li>{{ attr }}</li>
-        {%- endfor -%}
-    </ul>
+    <img src="{{ site.baseurl }}/images/portfolio/{{ item.img }}" alt="{{ item.name }} website screenshot" />
+    
 </aside>
-<img src="{{ site.baseurl }}/images/portfolio/{{ item.img }}" alt="{{ item.name }} website screenshot" />
+<p>{{ item.description }}</p>
+<ul>
+    {%- for attr in item.attributes -%}
+        <li>{{ attr }}</li>
+    {%- endfor -%}
+</ul>
 <p><a href="{{ item.url }}" width="400" target="_blank">Visit {{ item.name }}</a></p>
 
 {%- endfor -%}
