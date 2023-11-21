@@ -25,6 +25,10 @@ aside.portfolio img, aside.portrait img {
 aside.portfolio, aside.portrait {
     width: 100%;
 }
+aside.portrait img {
+    width: 100%;
+    height: 200px;
+}
 }
 
 
