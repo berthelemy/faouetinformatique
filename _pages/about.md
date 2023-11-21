@@ -5,7 +5,7 @@ image: macbook-459196_1280.jpg
 image-alt: Laptop with Google home page showing
 image-credit: Image by <a href="https://pixabay.com/users/377053-377053/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=459196">377053</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=459196">Pixabay</a>
 ---
-<aside class="portfolio">
+<aside class="portrait">
     <img src="{{ site.baseurl }}/images/IMG20220920115411-400.jpg" alt="Portrait of man standing on beach" />
 </aside>
 

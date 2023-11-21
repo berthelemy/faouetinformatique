@@ -2,13 +2,20 @@
     --accent: #198754;
   }
 
-aside.portfolio {
+aside.portfolio, aside.portrait {
     padding: 0;
-    width: 50%;
     border: none;
 }
 
-aside.portfolio img {
+aside.portfolio {
+    width: 50%;
+}
+
+aside.portrait {
+    width: 33%;
+}
+
+aside.portfolio img, aside.portrait img {
     object-fit: cover;
     height: 100%;
     border: 1px solid var(--border);
