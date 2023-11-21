@@ -8,21 +8,28 @@ image-credit: Image by <a href="https://pixabay.com/users/377053-377053/?utm_sou
 ---
 ### Website audits
 
-- **Usability**: How easily can people use your current site? On mobile and large screens
-- **Accessibility**: Can your site be used by everyone? Regardless of cognitive or physical ability
-- **Search engine optimisation**: Does your site work well with search engines? 
-- **Fit for purpose**: Does it achieve its aims?
+Looking at:
+
+- Usability
+- Accessibility
+- Findability
+- Fit for purpose
 
 ### Website design and build
 
-- Eco-friendly
+Our websites are:
+
+- Climate friendly
 - Fast
 - Search engine optimised
 - Simple to use
 - Accessible
 
-### Website hosting and maintenance
+### Website hosting, support and maintenance
 
+We will look after your site, with:
+
+- Servers powered by green energy
 - Technical support
 - Site monitoring
 - Usage analysis
