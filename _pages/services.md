@@ -49,7 +49,7 @@ Showing you how to:
 - Get started with HTML and CSS
 - Create a simple website
 
-<p class="notice">Ask for details</p>
+<p class="notice">Ask for details of our individual and group sessions</p>
 
 {% include cta.html %}
 
