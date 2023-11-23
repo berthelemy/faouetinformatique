@@ -15,15 +15,19 @@ Looking at:
 - Findability
 - Fit for purpose
 
+<p class="notice">From: 149€</p>
+
 ### Website design and build
 
 Our websites are:
 
-- Climate friendly
 - Fast
 - Search engine optimised
 - Simple to use
 - Accessible
+- Climate friendly
+
+<p class="notice">From: 499€</p>
 
 ### Website hosting, support and maintenance
 
@@ -33,6 +37,19 @@ We will look after your site, with:
 - Technical support
 - Site monitoring
 - Usage analysis
+
+<p class="notice">From: 49€ per month</p>
+
+### Training
+
+Showing you how to:
+
+- Choose and use a domain name
+- Write for the web
+- Get started with HTML and CSS
+- Create a simple website
+
+<p class="notice">Ask for details</p>
 
 {% include cta.html %}
 
