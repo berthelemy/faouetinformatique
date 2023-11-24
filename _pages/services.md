@@ -12,10 +12,9 @@ Do you know how well your existing website is performing? Does it meet the curre
 
 My website audit will help you to answer these questions, and identify what you can do to fix any issues.
 
-<div class="notice">
-    <p>From: 149€</p>
-    <p><a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
-</div>
+From: 149€
+
+<a class="button" href="{{ site.baseurl }}/contact">Request information</a>
 
 ### Website design and build
 
@@ -23,10 +22,9 @@ Your website is your public face. It should be informative, attractive, fast and
 
 I can help ensure your website is all of those. Get in touch to discuss your needs.
 
-<div class="notice">
-    <p>From: 499€</p>
-    <p><a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
-</div>
+From: 499€
+
+<a class="button" href="{{ site.baseurl }}/contact">Request information</a>
 
 ### Website hosting, support and maintenance
 
@@ -34,10 +32,9 @@ Once your website is built it will need somewhere to live and ongoing monitoring
 
 I will provide the help you need - talking to the technical people in their language, and talking to you in Plain English.
 
-<div class="notice">
-    <p>From: 49€ per month</p>
-    <p><a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
-</div>
+From: 49€ per month
+
+<a class="button" href="{{ site.baseurl }}/contact">Request information</a>
 
 ### Training
 
@@ -45,8 +42,7 @@ Many people want to use one of the many site builder services to build their own
 
 Weekly sessions will help give you the confidence and momentum you need to succeed.
 
-<div class="notice">
-    <p>80€ per hour - discounts for bulk bookings</p>
-    <p><a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
-</div>
+80€ per hour - discounts for bulk bookings
+
+<a class="button" href="{{ site.baseurl }}/contact">Request information</a>
 
