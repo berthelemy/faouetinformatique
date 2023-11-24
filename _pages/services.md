@@ -8,24 +8,17 @@ image-credit: Image by <a href="https://pixabay.com/users/377053-377053/?utm_sou
 ---
 ### Website audits
 
-Looking at:
+Do you know how well your existing website is performing? Does it meet the current standards? Can people find it? Can they use it easily (including on a mobile phone)? Can they find the information they need?
 
-- Usability
-- Accessibility
-- Findability
-- Fit for purpose
+My website audit will help you to answer these questions, and identify what you can do to fix any issues.
 
 <p class="notice">From: 149€</p>
 
 ### Website design and build
 
-Our websites are:
+Your website is your public face. It should be informative, attractive, fast and simple to use.
 
-- Fast
-- Search engine optimised
-- Simple to use
-- Accessible
-- Climate friendly
+I can help ensure your website is all of those. Get in touch to discuss your needs.
 
 <p class="notice">From: 499€</p>
 
