@@ -41,7 +41,7 @@ I will provide the help you need - talking to the technical people in their lang
 
 ### Training
 
-If you want to build your own website, using one of the many site builder services, I can provide one-to-one training and support.
+Many people want to use one of the many site builder services to build their own website. I can provide one-to-one training and support.
 
 Weekly sessions will help give you the confidence and momentum you need to succeed.
 
