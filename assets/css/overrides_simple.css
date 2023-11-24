@@ -32,6 +32,9 @@ aside.portfolio, aside.portrait {
 }
 }
 
+.center {
+    text-align: center;
+}
 
 footer nav {
     margin: 0 auto;
