@@ -12,7 +12,10 @@ Do you know how well your existing website is performing? Does it meet the curre
 
 My website audit will help you to answer these questions, and identify what you can do to fix any issues.
 
-<p class="notice">From: 149€ <a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
+<div class="notice">
+    <p class="notice">From: 149€</p>
+    <p><a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
+</div>
 
 ### Website design and build
 
@@ -20,7 +23,10 @@ Your website is your public face. It should be informative, attractive, fast and
 
 I can help ensure your website is all of those. Get in touch to discuss your needs.
 
-<p class="notice">From: 499€ <a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
+<div class="notice">
+    <p class="notice">From: 499€</p>
+    <p><a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
+</div>
 
 ### Website hosting, support and maintenance
 
@@ -28,7 +34,10 @@ Once your website is built it will need somewhere to live and ongoing monitoring
 
 I will provide the help you need - talking to the technical people in their language, and talking to you in Plain English.
 
-<p class="notice">From: 49€ per month <a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
+<div class="notice">
+    <p>From: 49€ per month</p>
+    <p><a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
+</div>
 
 ### Training
 
@@ -36,7 +45,8 @@ If you want to build your own website, using one of the many site builder servic
 
 Weekly sessions will help give you the confidence and momentum you need to succeed.
 
-<p class="notice">80€ per hour - discounts for bulk bookings <a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
-
-{% include cta.html %}
+<div class="notice">
+    <p>80€ per hour - discounts for bulk bookings</p>
+    <p><a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
+</div>
 
