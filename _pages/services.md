@@ -13,7 +13,7 @@ Do you know how well your existing website is performing? Does it meet the curre
 My website audit will help you to answer these questions, and identify what you can do to fix any issues.
 
 <div class="notice">
-    <p class="notice">From: 149€</p>
+    <p>From: 149€</p>
     <p><a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
 </div>
 
@@ -24,7 +24,7 @@ Your website is your public face. It should be informative, attractive, fast and
 I can help ensure your website is all of those. Get in touch to discuss your needs.
 
 <div class="notice">
-    <p class="notice">From: 499€</p>
+    <p>From: 499€</p>
     <p><a class="button" href="{{ site.baseurl }}/contact">Request information</a></p>
 </div>
 
