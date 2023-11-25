@@ -12,10 +12,9 @@ What is the first impression people get of your business or association when the
 </aside>
 
 - Can they find you?
-- Do you have a website where they can find out about you?
+- Can they find the information they need?
 - Does the site work on their mobile device?
 - Does it load quickly?
-- Can they find out what they need?
 - Do they get in touch / buy something / join you?
 
 If you answer "no" or "don't know" to any of these questions, then perhaps I can help!
