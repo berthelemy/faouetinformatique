@@ -2,6 +2,10 @@
     --accent: #198754;
   }
 
+nav li.current {
+    background-color: var(--accent);
+}
+
 aside.portfolio, aside.portrait {
     padding: 0;
     border: none;
