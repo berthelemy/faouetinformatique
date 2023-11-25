@@ -4,6 +4,9 @@ layout: default_simple
 ---
 First impressions count.
 
+<aside class="portfolio">
+    <img src="{{ site.baseurl }}/images/hand-3286887_1280.jpg" alt="Hand holding a mobile phone" />
+</aside>
 What is the first impression people get of your business or association when they search for you on the web?
 
 - Can they find you?
