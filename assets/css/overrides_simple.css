@@ -2,11 +2,15 @@
     --accent: #198754;
   }
 
-header nav li a.current {
-    background-color: var(--accent);
-    color: var(--bg);
-    font-weight: 400;
-}
+  @media only screen and (min-width: 720px) {
+  
+    header nav li a.current {
+        background-color: var(--accent);
+        color: var(--bg);
+        font-weight: 400;
+    }
+
+  }
 
 aside.portfolio, aside.portrait {
     padding: 0;
