@@ -2,8 +2,11 @@
 <ul>
 	{% assign items = site.data.menu | sort: 'order' %}
 	{% for item in items %}
-	{% if item.url == page.url %}{% assign class = "current" %}{% endif %}
-	<li><a class="{{ class }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+	{% if item.url == page.url %}
+	<li><a class="current" href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+	{% else %}
+	<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+	{% endif %}
 	{% endfor %}
 </ul>						
 							<ul>
