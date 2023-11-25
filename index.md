@@ -1,9 +1,6 @@
 ---
-title_en: Home
-title_fr: Acceuil
+title: Home
 layout: default_simple
-cta: Get in touch
-cta-url: contact
 ---
 First impressions count.
 
@@ -18,3 +15,4 @@ What is the first impression people get of your business or association when the
 
 If you answer no or don't know to any of these questions, then perhaps I can help!
 
+{% include cta.html %}
