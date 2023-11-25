@@ -9,6 +9,7 @@ nav li.current {
 aside.portfolio, aside.portrait {
     padding: 0;
     border: none;
+    background-color: var(--bg);
 }
 
 aside.portfolio {
@@ -21,7 +22,7 @@ aside.portrait {
 
 aside.portfolio img, aside.portrait img {
     object-fit: cover;
-    background-color: var(--bg);
+
     height: 100%;
     border: 1px solid var(--border);
 }
