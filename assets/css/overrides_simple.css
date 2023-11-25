@@ -17,6 +17,7 @@ aside.portrait {
 
 aside.portfolio img, aside.portrait img {
     object-fit: cover;
+    background-color: var(--bg)
     height: 100%;
     border: 1px solid var(--border);
 }
