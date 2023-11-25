@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_simple
 title: Privacy policy
 permalink: privacy-policy
 image: macbook-459196_1280.jpg
