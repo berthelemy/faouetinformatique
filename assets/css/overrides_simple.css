@@ -5,7 +5,7 @@
 header nav li a.current {
     background-color: var(--accent);
     color: var(--bg);
-    font-weight: bold;
+    font-weight: 400;
 }
 
 aside.portfolio, aside.portrait {
