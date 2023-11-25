@@ -2,7 +2,7 @@
     --accent: #198754;
   }
 
-nav li.current {
+header nav li a.current {
     background-color: var(--accent);
 }
 
