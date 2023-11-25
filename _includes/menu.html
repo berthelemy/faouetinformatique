@@ -1,5 +1,10 @@
 <!-- Nav -->
-						
+<ul>
+	{% assign items = site.data.menu | sort: 'order' %}
+	{% for item in items %}
+	<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+	{% endfor %}
+</ul>						
 							<ul>
 								<li><a href="{{ site.baseurl }}">Home</a></li>
 								<li>

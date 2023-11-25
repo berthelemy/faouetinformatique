@@ -1,0 +1,15 @@
+- name: Home
+  url: /
+  order: 1
+- name: About
+  url: /about
+  order: 4
+- name: Services
+  url: /services
+  order: 2
+- name: Portfolio
+  url: /portfolio
+  order: 3
+- name: Contact
+  url: /contact
+  order: 5
