@@ -18,6 +18,6 @@ What is the first impression people get of your business or association when the
 - Can they find out what they need?
 - Do they get in touch / buy something / join you?
 
-If you answer no or don't know to any of these questions, then perhaps I can help!
+If you answer "no" or "don't know" to any of these questions, then perhaps I can help!
 
 {% include cta.html %}
