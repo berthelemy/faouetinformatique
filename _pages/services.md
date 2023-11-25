@@ -12,7 +12,7 @@ Do you know how well your existing website is performing? Does it meet the curre
 
 My website audit will help you to answer these questions, and identify what you can do to fix any issues.
 
-From: 149€
+From: 149€ (payments also accepted in pound sterling)
 
 <a class="button" href="{{ site.baseurl }}/contact">Request information</a>
 
@@ -22,7 +22,7 @@ Your website is your public face. It should be informative, attractive, fast and
 
 I can help ensure your website is all of those. Get in touch to discuss your needs.
 
-From: 499€
+From: 499€ (payments also accepted in pound sterling)
 
 <a class="button" href="{{ site.baseurl }}/contact">Request information</a>
 
@@ -32,7 +32,7 @@ Once your website is built it will need somewhere to live and ongoing monitoring
 
 I will provide the help you need - talking to the technical people in their language, and talking to you in Plain English.
 
-From: 49€ per month
+From: 49€ per month (payments also accepted in pound sterling)
 
 <a class="button" href="{{ site.baseurl }}/contact">Request information</a>
 
@@ -42,7 +42,7 @@ Many people want to use one of the many site builder services to build their own
 
 Weekly sessions will help give you the confidence and momentum you need to succeed.
 
-80€ per hour - discounts for bulk bookings
+80€ per hour - discounts for bulk bookings (payments also accepted in pound sterling)
 
 <a class="button" href="{{ site.baseurl }}/contact">Request information</a>
 
