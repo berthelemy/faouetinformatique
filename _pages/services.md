@@ -38,7 +38,7 @@ From: 49€ per month
 
 ### Training
 
-Many people want to use one of the many site builder services to build their own website. I can provide one-to-one training and support.
+Many people want to use one of the many site builder services to build their own website. I can provide one-to-one coaching, training and support.
 
 Weekly sessions will help give you the confidence and momentum you need to succeed.
 
