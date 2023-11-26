@@ -1,5 +1,15 @@
 :root {
     --accent: #198754;
+    --standard-border-radius: 5px;
+    --bg: #DAF7DC;
+    --accent-bg: #42273B;
+    --text: #212121;
+    --text-light: #585858;
+    --border: #ABC8C0;
+    --code: #d81b60;
+    --preformatted: #444;
+    --marked: #ffdd33;
+    --disabled: #efefef;
   }
 
   @media only screen and (min-width: 720px) {
