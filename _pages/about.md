@@ -11,6 +11,8 @@ image-credit: Image by <a href="https://pixabay.com/users/377053-377053/?utm_sou
 
 Faouët Informatique is run by Mark Berthelemy, and based on many years of experience working with large and small organisations.
 
+He specialises in organising and presenting your information in ways that your audience will understand.
+
 Mark will be an advocate for your users - helping you to create a website that they will find and want to use. 
 
 ### Testimonials
