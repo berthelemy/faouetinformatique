@@ -12,11 +12,15 @@
     --disabled: #efefef;
   }
 
+  .button:not([aria-disabled=true]):hover, button:enabled:hover, input[type=button]:enabled:hover, input[type=reset]:enabled:hover, input[type=submit]:enabled:hover, label[type=button]:hover {
+    filter: brightness(1.1);
+  }
+
   @media only screen and (min-width: 720px) {
   
     header nav li a.current {
         background-color: var(--accent);
-        color: var(--bg);
+        color: var(--accent-bg);
         font-weight: 400;
     }
 
